@@ -3,8 +3,7 @@
 ## 🚀 About Me  
 🔭 I’m currently working on **Data Cleaning & Exploratory Data Analysis with Python**  
 🌱 I’m currently learning **Python, SQL, Tableau**  
-🤝 I’m eager to contribute my skills to **teams and organizations seeking data-driven insights**  
-💼 I’m looking for **data analyst roles**  
+🤝 I’m eager to contribute my skills to **teams and organizations seeking data-driven insights**   
 💬 Ask me about **Microsoft Excel, SQL, Tableau, Business decisions, and recommendations**  
 📊 I'm passionate about **statistical analysis and turning insights into wonderful visualizations**  
 
