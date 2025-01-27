@@ -1,59 +1,28 @@
 # Hi there, I'm Tiffany Nwanne! 👋
 
-Welcome to my GitHub profile! I am a passionate software developer with a love for learning new technologies and solving challenging problems. Below you can find some information about me and my work.
+# Hi 👋, I'm [Your Name]  
+### A Passionate [Your Role]  
 
-## 🚀 About Me
+![Banner Image](your_image_url_here)  
 
-- 🌍 Based in [Your Location]
-- 🎓 Currently studying/Graduated from [Your University/College]
-- 💼 Working as a [Your Job Title] at [Your Company]
-- 🌱 Currently learning [Technologies or Languages you are learning]
-- 💬 Ask me about [Topics you are knowledgeable about]
-- 📫 How to reach me: [Your Email Address]
-- ⚡ Fun fact: [A fun fact about you]
+## 🚀 About Me  
+🔭 I’m currently working on **Data Cleaning & Exploratory Data Analysis with Python**  
+🌱 I’m currently learning **Python, SQL, Power BI**  
+🤝 I’m looking to collaborate with **organizations to make sense of their data**  
+💼 I’m looking for **entry-level/junior data analyst roles**  
+💬 Ask me about **Microsoft Excel, SQL, Power BI, Business decisions, and recommendations**  
+📫 How to reach me: **[your email]**, **[LinkedIn profile](your_linkedin_url)**  
+⚡ Fun fact: **I like British Shorthair cats!**  
 
-## 🛠️ My Skills
+## 🛠 Languages and Tools  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>  
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>  
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>  
 
-### Languages
+## 🔗 Connect with me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](your_linkedin_url)  
 
-- Python
-- JavaScript
-- Java
-- [Other languages you know]
 
-### Technologies & Frameworks
-
-- React
-- Node.js
-- Django
-- [Other technologies and frameworks you use]
-
-### Tools
-
-- Git & GitHub
-- Docker
-- VS Code
-- [Other tools you use]
-
-## 📈 GitHub Stats
-
-![Tiffany's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiffanyNwanne&show_icons=true&theme=radical)
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website/Blog](https://your-personal-website.com)
-
-## 🔥 My Projects
-
-### [Project 1 Name](https://github.com/TiffanyNwanne/project-1-repo)
-A brief description of your project.
-
-### [Project 2 Name](https://github.com/TiffanyNwanne/project-2-repo)
-A brief description of your project.
-
-### [Project 3 Name](https://github.com/TiffanyNwanne/project-3-repo)
-A brief description of your project.
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate on any projects.
