@@ -1,17 +1,12 @@
 # Hi there, I'm Tiffany Nwanne! 👋 
 
-# Hi 👋, I'm [Your Name]  
-### A Passionate [Your Role]  
-
-![Banner Image](your_image_url_here)  
-
 ## 🚀 About Me  
 🔭 I’m currently working on **Data Cleaning & Exploratory Data Analysis with Python**  
 🌱 I’m currently learning **Python, SQL, Tableau**  
 🤝 I’m eager to contribute my skills to **teams and organizations seeking data-driven insights**  
 💼 I’m looking for **entry-level/junior data analyst roles**  
 💬 Ask me about **Microsoft Excel, SQL, Tableau, Business decisions, and recommendations**  
-📫 How to reach me: **[your email]**, **[LinkedIn profile](linkedin.com/in/tiffany-nwanne/)**  
+📫 How to reach me: **[Email](nwannetiffany@gmail.com)**, **[LinkedIn profile](linkedin.com/in/tiffany-nwanne/)**  
 📊 I'm passionate about **statistical analysis and turning insights into wonderful visualizations**  
 
 ## 🛠 Languages and Tools  
