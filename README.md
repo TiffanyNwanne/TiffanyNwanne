@@ -4,7 +4,6 @@
 🔭 I’m currently working on **Data Cleaning & Exploratory Data Analysis with Python**   
 🤝 I’m eager to contribute my skills to **teams and organizations seeking data-driven insights**   
 💬 Ask me about **Microsoft Excel, SQL, Python, Tableau**  
-📊 I'm passionate about **statistical analysis and turning insights into wonderful visualizations**  
 
 ## 🛠 Languages and Tools  
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
