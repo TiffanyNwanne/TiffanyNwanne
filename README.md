@@ -14,6 +14,6 @@
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>  
 
 ## 🔗 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/tiffany-nwanne/))](linkedin.com/in/tiffany-nwanne)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/tiffany-nwanne/)
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you want to collaborate on any projects.
