@@ -18,11 +18,11 @@ Each project is structured to demonstrate end-to-end analytical workflows, inclu
 
 | Project Title                              | Domain     | Description |
 |-------------------------------------------|------------|-------------|
-| [Hospital Readmission Analysis](./projects/hospital-readmission) | Healthcare | Predict patient readmissions and identify cost-saving opportunities |
-| [Insurance Claim Fraud Detection](./projects/insurance-fraud) | Business/Healthcare | Classification model to detect fraudulent claims |
-| [Sales Forecasting for Retail Chain](./projects/sales-forecasting) | Business | Time-series analysis for demand prediction |
-| [Patient Satisfaction Sentiment Analysis](./projects/sentiment-analysis) | Healthcare | NLP-based project on patient reviews and feedback |
-| [Churn Prediction for Subscription Service](./projects/churn-prediction) | Business | Customer segmentation and churn prediction using machine learning |
+| [Pharmaline Operational Intelligence Insight Report](./https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis) | Healthcare/Business | 
+| [AV Health Low Back Pain (LBP) Treatment Optimization Analysis](./https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis) | Healthcare |
+| [Sales Forecasting for Retail Chain](./projects/sales-forecasting) | Business | 
+| [Patient Satisfaction Sentiment Analysis](./projects/sentiment-analysis) | Healthcare | 
+| [Churn Prediction for Subscription Service](./projects/churn-prediction) | Business | 
 
 ---
 
