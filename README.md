@@ -16,7 +16,7 @@ Each project is structured to demonstrate end-to-end analytical workflows, inclu
 
 ## Projects
 
-| Project Title                              | Domain     | Description |
+| Project Title                              | Domain     |
 |-------------------------------------------|------------|-------------|
 | [Pharmaline Operational Intelligence Insight Report](./https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis) | Healthcare/Business | 
 | [AV Health Low Back Pain (LBP) Treatment Optimization Analysis](./https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis) | Healthcare |
