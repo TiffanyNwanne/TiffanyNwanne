@@ -20,9 +20,13 @@ Each project is structured to demonstrate end-to-end analytical workflows, inclu
 |-------------------------------------------|------------|
 | [Pharmaline Operational Intelligence Insight Report](./https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis) | Healthcare/Business | 
 | [AV Health Low Back Pain (LBP) Treatment Optimization Analysis](./https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis) | Healthcare |
-| [FlashMist-Tech-StartUp-Stakeholder-Analysis](./https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis) | Business | 
-| [Curlture-Business-Performance-Analysis](./https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis) | Business | 
-| [NovaBank-Customer-Segmentation-Analysis](./https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis) | Business | 
+| [FlashMist Tech StartUp Stakeholder Analysis](./https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis) | Business | 
+| [Curlture Business Performance Analysis](./https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis) | Business | 
+| [NovaBank Customer Segmentation Analysis](./https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis) | Business | 
+| [Phoenix Product Performance Competitive Benchmarking Analysis](./https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis) | Business | 
+| [Assessment of Adverse Drug Reactions in a Controlled Clinical Trial by Xiang-Xu](./https://github.com/Assessment-of-Adverse-Drug-Reactions-in-a-Controlled-Clinical-Trial-Xiang-Xu) | Healthcare | 
+| [Health Insurance User Behaviour Analysis](./https://github.com/TiffanyNwanne/Health-Insurance-User-Behaviour-Analysis) | Healthcare | 
+
 
 ---
 
