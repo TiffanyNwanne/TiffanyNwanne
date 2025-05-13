@@ -1,7 +1,7 @@
 # Directory
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Welcome to my Data Analysis Projects directory! This directory showcases real-world analytical projects focused on solving problems in the **healthcare** and **business** domains using data science, statistics, and machine learning.
+Welcome to my Data Analysis Projects directory! This directory showcases real-world analytical projects focused on solving problems in the **healthcare** and **business** domains using analytics, statistics, and machine learning.
 
 Each project is structured to demonstrate end-to-end analytical workflows, including:
 
