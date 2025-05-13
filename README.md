@@ -20,9 +20,9 @@ Each project is structured to demonstrate end-to-end analytical workflows, inclu
 |-------------------------------------------|------------|
 | [Pharmaline Operational Intelligence Insight Report](./https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis) | Healthcare/Business | 
 | [AV Health Low Back Pain (LBP) Treatment Optimization Analysis](./https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis) | Healthcare |
-| [Sales Forecasting for Retail Chain](./projects/sales-forecasting) | Business | 
-| [Patient Satisfaction Sentiment Analysis](./projects/sentiment-analysis) | Healthcare | 
-| [Churn Prediction for Subscription Service](./projects/churn-prediction) | Business | 
+| [FlashMist-Tech-StartUp-Stakeholder-Analysis](./https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis) | Business | 
+| [Curlture-Business-Performance-Analysis](./https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis) | Business | 
+| [NovaBank-Customer-Segmentation-Analysis](./https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis) | Business | 
 
 ---
 
