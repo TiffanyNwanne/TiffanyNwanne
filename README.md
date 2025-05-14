@@ -28,9 +28,9 @@ Each project is structured to demonstrate end-to-end analytical workflows, inclu
 | [Health Insurance User Behaviour Analysis](https://github.com/TiffanyNwanne/Health-Insurance-User-Behaviour-Analysis) | Healthcare | 
 
 In addition to analytical expertise, I am also skilled in database management and administration, with mastery of the big three relational database systems: MySQL, PostgreSQL, and Microsoft SQL Server—enabling efficient data handling, query optimization, and secure database operations across projects.
-| Project Title                              | DDMS     |
+| Project Title                              | DBMS     |
 |-------------------------------------------|------------|
-| [Drug Interaction Checker Database Management](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis) | PostGreSQL | 
+| [Drug Interaction Checker Database Management](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis) | PostgreSQL | 
 | [Beauty Supply Store Database Management](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis) | MySQL |
 | [Pharmacy Theft Prevention Database Adminstration](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis) | Microsoft SQL Server |
 
