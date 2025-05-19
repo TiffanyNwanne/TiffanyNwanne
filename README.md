@@ -32,7 +32,7 @@ In addition to analytical expertise, I am also skilled in database management an
 |-------------------------------------------|------------|
 | [Drug Interaction Checker Database Management](https://github.com/TiffanyNwanne/Drug-Interaction-Checker-Database) | PostgreSQL | 
 | [Beauty Supply Store Database Management](https://github.com/TiffanyNwanne/Beauty-Supply-Store-Database-Management) | MySQL |
-| [Theft Prevention Database Adminstration](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis) | Microsoft SQL Server |
+| [Theft Prevention Database Adminstration](https://github.com/TiffanyNwanne/PharmaDB-Theft-Prevention-Database) | Microsoft SQL Server |
 
 ---
 
