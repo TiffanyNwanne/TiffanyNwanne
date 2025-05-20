@@ -25,7 +25,6 @@ Each project is structured to demonstrate end-to-end analytical workflows, inclu
 | [NovaBank Customer Segmentation Analysis](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis) | Business | 
 | [Phoenix Product Performance Competitive Benchmarking Analysis](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis) | Business | 
 | [Assessment of Adverse Drug Reactions in a Controlled Clinical Trial by Xiang Xu](https://github.com/TiffanyNwanne/Assessment-of-Adverse-Drug-Reactions-in-a-Controlled-Clinical-Trial-Xiang-Xu) | Healthcare | 
-| [Health Insurance User Behaviour Analysis](https://github.com/TiffanyNwanne/Health-Insurance-User-Behaviour-Analysis) | Healthcare | 
 
 In addition to analytical expertise, I am also skilled in database management and administration, with mastery of the big three relational database systems: MySQL, PostgreSQL, and Microsoft SQL Server—enabling efficient data handling, query optimization, and secure database operations across projects.
 | Project Title                              | DBMS     |
