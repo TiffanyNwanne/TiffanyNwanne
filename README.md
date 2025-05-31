@@ -7,8 +7,6 @@ Each project is structured to demonstrate end-to-end analytical workflows, inclu
 
 - Data Collection & Cleaning
 - Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Model Building & Evaluation
 - Insights & Business Recommendations
 
 
@@ -19,12 +17,14 @@ Each project is structured to demonstrate end-to-end analytical workflows, inclu
 | Project Title                              | Domain     |
 |-------------------------------------------|------------|
 | [Pharmaline Operational Intelligence Insight Report](https://github.com/TiffanyNwanne/Pharmaline-Operational-Intelligence-Analysis) | Healthcare/Business | 
+| [Lynila Community Pharmacy Revenue Analysis](https://github.com/TiffanyNwanne/Lynila-Community-Pharmacy-Revenue-Analysis) | Healthcare/Business | 
 | [AV Health Low Back Pain (LBP) Treatment Optimization Analysis](https://github.com/TiffanyNwanne/AV-Health-Low-Back-Pain-LBP-Treatment-Optimization-Analysis) | Healthcare |
+| [Assessment of Adverse Drug Reactions in a Controlled Clinical Trial by Xiang Xu](https://github.com/TiffanyNwanne/Assessment-of-Adverse-Drug-Reactions-in-a-Controlled-Clinical-Trial-Xiang-Xu) | Healthcare | 
 | [FlashMist Tech StartUp Stakeholder Analysis](https://github.com/TiffanyNwanne/FlashMist-Tech-StartUp-Stakeholder-Analysis) | Business | 
 | [Curlture Business Performance Analysis](https://github.com/TiffanyNwanne/Curlture-Business-Performance-Analysis) | Business | 
 | [NovaBank Customer Segmentation Analysis](https://github.com/TiffanyNwanne/NovaBank-Customer-Segmentation-Analysis) | Business | 
 | [Phoenix Product Performance Competitive Benchmarking Analysis](https://github.com/TiffanyNwanne/Phoenix-Product-Performance-Competitive-Benchmarking-Analysis) | Business | 
-| [Assessment of Adverse Drug Reactions in a Controlled Clinical Trial by Xiang Xu](https://github.com/TiffanyNwanne/Assessment-of-Adverse-Drug-Reactions-in-a-Controlled-Clinical-Trial-Xiang-Xu) | Healthcare | 
+
 
 In addition to analytical expertise, I am also skilled in database management and administration, with mastery of the big three relational database systems: MySQL, PostgreSQL, and Microsoft SQL Server—enabling efficient data handling, query optimization, and secure database operations across projects.
 | Project Title                              | DBMS     |
